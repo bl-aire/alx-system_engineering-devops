@@ -18,3 +18,4 @@ The list below shows what each script does:
 14. Copy_html: Copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 15. Lets_move: Moves all files beginning with an uppercase letter to the directory /tmp/u.
 16. Clean Emacs: Deletes all files in the current working directory that end with the character ~.
+17. Tree: Creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
