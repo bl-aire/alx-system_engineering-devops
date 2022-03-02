@@ -9,3 +9,4 @@ The list below shows what each script does:
 5. Listfilesdigitonly: lists the content of the current directory (including hidden files) numerically.
 6. Firstdirectory: Creates a new directory in /tmp/.
 7. Movethatfile: Moves the file betty from /tmp/ to /tmp/my_first_directory.
+8. Firstdelete: Deletes the file betty
