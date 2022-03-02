@@ -1,9 +1,9 @@
 ## Shell_basics
-The list below shows what each script does
-1. Current_working_directory: Prints the current directory a user is on.
-2. Listit: Lists the files in the current working directory.
-3. Bring_me_home: Changes the working directory to the user’s home directory.
-4. Listfiles: Displays current directory contents in a long format.
-5. Listmorefiles: Displays current directory contents, including hidden files (starting with .)
-6. Listfilesdigitonly: lists the content of the current directory (including hidden files) numerically.
-Creates a directory named my_first_directory in the /tmp/ directory.
+The list below shows what each script does:
+
+0. Current_working_directory: Prints the current directory a user is on.
+1. Listit: Lists the files in the current working directory.
+2. Bring_me_home: Changes the working directory to the user’s home directory.
+3. Listfiles: Displays current directory contents in a long format.
+4. Listmorefiles: Displays current directory contents, including hidden files (starting with .)
+5. Listfilesdigitonly: lists the content of the current directory (including hidden files) numerically.
