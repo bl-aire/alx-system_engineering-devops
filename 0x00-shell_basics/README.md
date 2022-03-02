@@ -14,3 +14,4 @@ The list below shows what each script does:
 10. Back: changes the working directory to the previous one.
 11. Lists: Lists files in current directory, parent directory and /boot
 12. File_type: Prints the type of the file.
+13. Symbolic_link: creates a symbolic link to bin/ls.
