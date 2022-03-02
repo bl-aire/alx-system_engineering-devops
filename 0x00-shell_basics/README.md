@@ -6,3 +6,4 @@ The list below shows what each script does
 4. Listfiles: Displays current directory contents in a long format.
 5. Listmorefiles: Displays current directory contents, including hidden files (starting with .)
 6. Listfilesdigitonly: lists the content of the current directory (including hidden files) numerically.
+Creates a directory named my_first_directory in the /tmp/ directory.
