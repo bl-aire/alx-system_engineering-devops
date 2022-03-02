@@ -15,3 +15,4 @@ The list below shows what each script does:
 11. Lists: Lists files in current directory, parent directory and /boot
 12. File_type: Prints the type of the file.
 13. Symbolic_link: creates a symbolic link to bin/ls.
+14. Copy_html: Copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
