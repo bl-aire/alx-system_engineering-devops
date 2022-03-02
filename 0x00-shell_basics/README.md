@@ -12,3 +12,4 @@ The list below shows what each script does:
 8. Firstdelete: Deletes the file betty
 9. Firstdirdelete: Deletes the directory my_first_directory that is in the /tmp directory.
 10. Back: changes the working directory to the previous one.
+11. Lists: Lists files in current directory, parent directory and /boot
