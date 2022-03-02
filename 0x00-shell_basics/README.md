@@ -7,3 +7,5 @@ The list below shows what each script does:
 3. Listfiles: Displays current directory contents in a long format.
 4. Listmorefiles: Displays current directory contents, including hidden files (starting with .)
 5. Listfilesdigitonly: lists the content of the current directory (including hidden files) numerically.
+6. Firstdirectory: Creates a new directory in /tmp/.
+7. Movethatfile: Moves the file betty from /tmp/ to /tmp/my_first_directory.
